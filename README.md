@@ -43,6 +43,14 @@ Follow these steps to place the VM and host on the same LAN/subnet.
 > Use the exact same network for the local machine and the VM. Don't use a VPN. <br>
 > Access the site in **HTTP**.
 
+## Final score
+<div align=center>
+<img src="https://github.com/SimonIsCoding/utils_and_random/blob/main/ft_irc_grade.png"/>
+</div>
+
+> [!TIP]
+> Check inside each folder vulnerability to see the full documentation.
+
 ## Flag 01 - Parameter Tampering - I forgot my password
 Refs:<br>
 [Web_Parameter_Tampering](https://owasp.org/www-community/attacks/Web_Parameter_Tampering)
